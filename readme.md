@@ -3,9 +3,9 @@
 
 ---
 
-1.DOM Mainpulation <br>
+## 1.DOM Mainpulation
 [link](./DOM%20Manipulation/readme.md)
 <br>
 
-2.Assignment JavaScript<br>
+## 2.Assignment JavaScript
 [link](./Assignment%20JavaScript/)
