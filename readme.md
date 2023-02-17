@@ -1,7 +1,6 @@
 ### Full Stake JavaScript web development
-## JavaScript
+# JavaScript
 
----
 
 ## 1.DOM Mainpulation
 [link](./DOM%20Manipulation/readme.md)
