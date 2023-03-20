@@ -62,7 +62,33 @@
 
     </footer>
   </main>
+  <script>
+    // Task 1
+    //Change Heading
+    document.querySelector(".logo").src="./assets/ineuron-logo.png"
+    
 
+    //TASK2
+    // Icon Added
+    let ele =document.createElement("div");
+    ele.className="footer_social_ico";
+    
+    let icon = document.createElement("i");
+    icon.className="fa-brands fa-linkedin";
+    ele.appendChild(icon);
+    document.querySelector(".footer_social").appendChild(ele);
+
+    // changed the price
+    let price = document.querySelector(".app_price span");
+    price.innerHTML = "$10";
+  
+    // let value=document.createElement("div");
+    // value.className="list";
+
+    // let heading=document.createElement("img");
+    // heading.src="assets/ineuron-logo.png"
+    let val2 = document.querySelector(".app_pric span").innerText="10";
+  </script>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 </body>
